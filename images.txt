@@ -1,4 +1,4 @@
-nginx
+plex
 #支持私库
 linuxserver/plex:version-1.26.1.5673
 linuxserver/plex
